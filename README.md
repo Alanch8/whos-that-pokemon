@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-# Who's that Pokémon <img align="center" src="./public/pokeball.png" alt="TaskApp-Brand" width="40"/>
+# Who's that Pokémon <img align="center" src="./public/pokeball.png" alt="TaskApp-Brand" width="35"/>
 
 ## Project setup
 
